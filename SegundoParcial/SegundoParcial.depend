@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1625525170 source:c:\users\martin\desktop\marinovich.martin.splab1g\segundoparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"pais.h"
+	"parser.h"
+	"controller.h"
+
+1625521884 c:\users\martin\desktop\marinovich.martin.splab1g\segundoparcial\utn.h
+
+1625521852 c:\users\martin\desktop\marinovich.martin.splab1g\segundoparcial\linkedlist.h
+
+1625526128 c:\users\martin\desktop\marinovich.martin.splab1g\segundoparcial\pais.h
+	"LinkedList.h"
+
+1625526175 c:\users\martin\desktop\marinovich.martin.splab1g\segundoparcial\parser.h
+
+1625526260 c:\users\martin\desktop\marinovich.martin.splab1g\segundoparcial\controller.h
+
+1625521748 source:c:\users\martin\desktop\marinovich.martin.splab1g\segundoparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625525518 source:c:\users\martin\desktop\marinovich.martin.splab1g\segundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"controller.h"
+	"utn.h"
+	"menu.h"
+
+1625525668 c:\users\martin\desktop\marinovich.martin.splab1g\segundoparcial\menu.h
+
+1625524865 source:c:\users\martin\desktop\marinovich.martin.splab1g\segundoparcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"utn.h"
+
+1625525895 source:c:\users\martin\desktop\marinovich.martin.splab1g\segundoparcial\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pais.h"
+	"utn.h"
+
+1625526202 source:c:\users\martin\desktop\marinovich.martin.splab1g\segundoparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pais.h"
+
+1625521799 source:c:\users\martin\desktop\marinovich.martin.splab1g\segundoparcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"utn.h"
+
